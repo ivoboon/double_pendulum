@@ -3,6 +3,7 @@ os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = 'hide'
 import pygame
 import math
 
+# Initialising PyGame
 pygame.init()
 
 # Making surface
